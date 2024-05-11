@@ -10,4 +10,7 @@ Simple age and gender detector using Machine learning
 ## to run this model yourself:
 1. Clone this respository
 2. Download the dataset from[here](https://www.kaggle.com/datasets/jangedoo/utkface-new?resource=download)
-3. Open the [model jpyter notebool](
+3. Extract the dataset to your repository folder
+4.  Open the [Model jupyter notebool](https://github.com/vinoothna-28/Age-Gender-Detector/blob/main/Model.ipynb)
+5. Run this notebook
+6. Run the [gui.py](
